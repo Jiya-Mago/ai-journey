@@ -1,0 +1,6 @@
+customer,vessel,report_date,status,response_days
+Chevron,Arctic Star,2026-06-01,resolved,3
+Shell,Neptune II,2026-06-05,pending,7
+TotalEnergies,Blue Horizon,2026-06-10,resolved,1
+BP,Ocean Titan,2026-06-12,escalated,12
+Equinor,Nordic Wave,2026-06-15,pending,5
